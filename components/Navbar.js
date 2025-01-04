@@ -80,7 +80,7 @@ const Navbar = () => {
           <div className="logo flex items-center gap-5 sm:gap-20">
             <Link href={"/"}>
               <img
-                src="/Linktree.png"
+                src="/linktree.png"
                 alt="Logo"
                 className="w-[100px] h-auto sm:w-[150px]"
               />
